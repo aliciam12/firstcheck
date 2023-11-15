@@ -1,0 +1,20 @@
+<p>Image provided by [...add additional code here...]</p>
+
+Add your code to here:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<style>
+		/* Add your CSS here & be sure use css classes */
+	</style>
+  </head>
+  <body>
+    <main>
+        
+	/* Your html code will go here - Delete this comment afterwards */
+
+    </main>
+  </body>
+</html>
+
